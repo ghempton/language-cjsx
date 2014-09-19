@@ -212,7 +212,7 @@
 
   },
   "foldingStartMarker": "^\\s*class\\s+\\S.*$|.*(->|=>)\\s*$|.*[\\[{]\\s*$",
-  "scopeName": "source.coffee",
+  "scopeName": "source.coffee.cjsx",
   "keyEquivalent": "^~C",
   "patterns": [{
     "include": "#jsx"
