@@ -1,6 +1,6 @@
 {
   "name": "language-cjsx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Gordon L. Hempton <ghempton@gmail.com>",
   "description": "CoffeeScript JSX language support",
   "repository": "https://github.com/ghempton/language-cjsx",
