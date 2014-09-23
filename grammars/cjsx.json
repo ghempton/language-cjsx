@@ -162,7 +162,7 @@
     "jsx-tag-open": {
       "begin": "(<)([a-zA-Z0-9:]+)",
       "end": "(/?>)",
-      "name": "tag.open.coffee",
+      "name": "tag.coffee",
       "endCaptures": {
         "1": {
           "name": "punctuation.definition.tag.end.coffee"
@@ -182,7 +182,7 @@
     },
     "jsx-tag-close": {
       "match": "(</)([^>]+)(>)",
-      "name": "tag.close.coffee",
+      "name": "tag.coffee",
       "captures": {
         "1": {
           "name": "punctuation.definition.tag.begin.coffee"
