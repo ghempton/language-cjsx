@@ -115,7 +115,7 @@
     },
     "jsx-tag-attribute-name": {
       "name": "meta.tag.attribute-name.coffee",
-      "match": "\\b([a-zA-Z\\-:]+)",
+      "match": "\\b([a-zA-Z\\$_]\\w*(\\.\\w+)*)",
       "captures": {
         "1": {
           "name": "entity.other.attribute-name.coffee"
